@@ -12,6 +12,7 @@ public class JogadorTest01 {
 
         for (Jogador jogador : jogadores) {
             jogador.imprime();
+
         }
 
     }
