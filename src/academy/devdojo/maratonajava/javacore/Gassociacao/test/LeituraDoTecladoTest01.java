@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.associacao.test;
+package academy.devdojo.maratonajava.javacore.Gassociacao.test;
 
 import java.util.Scanner;
 
