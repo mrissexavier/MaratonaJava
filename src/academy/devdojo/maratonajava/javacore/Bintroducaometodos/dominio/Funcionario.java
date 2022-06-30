@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.introducaometodos.dominio;
+package academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio;
 
 public class Funcionario {
     private String nome;
