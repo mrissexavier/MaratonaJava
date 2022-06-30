@@ -1,6 +1,4 @@
-package academy.devdojo.maratonajava.javacore.construtores.dominio;
-
-import javax.swing.plaf.synth.SynthOptionPaneUI;
+package academy.devdojo.maratonajava.javacore.Dconstrutores.dominio;
 
 public class Anime {
     private String nome;
